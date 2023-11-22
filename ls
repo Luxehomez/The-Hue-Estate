@@ -1,4 +1,10 @@
-[33mcommit 3894d5659418c1b6db48836d616516450c884c21[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[33mcommit 4c2a8eb2b0f184ed731dbc7c2449c2bbc166923b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Pearl Irhue <irhuepearl@gmail.com>
+Date:   Tue Nov 21 23:11:38 2023 +0000
+
+    deployment added
+
+[33mcommit 3894d5659418c1b6db48836d616516450c884c21[m
 Author: Pearl Irhue <irhuepearl@gmail.com>
 Date:   Tue Nov 21 22:42:07 2023 +0000
 
